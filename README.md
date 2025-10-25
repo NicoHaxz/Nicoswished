@@ -11,13 +11,13 @@ public void Yo() {
     💻 Favorite lang: Java, Kotlin & Lua;
 }
 
-//!TODO 🌟 Proyectos destacados
+// 🌟 Proyectos destacados
 public void Proyectos() {
     🔹 PacketGlowAPI - API para hacer glowings personalizados en Minecraft sin usar Teams;
     🔹 Minigame - Sistema del mini juego de adivinanza de LaosOneViews Paper/Spigot;
 }
 
-//!TODO 🛠️ Skills y herramientas
+// 🛠️ Skills y herramientas
 public void Skills() {
     💻 Lenguajes: Java, Kotlin, Lua, JavaScript;
     ⚙️ Herramientas: Git, Maven, Gradle, IntelliJ IDEA, VS Code;
@@ -29,13 +29,13 @@ public void Skills() {
 
 ## 📊 GitHub Stats
 
-![Nicoswished's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoswished\&show_icons=true\&count_private=true\&theme=material-palenight\&hide_border=true)
+![Nicoswished's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicoswished\&show_icons=true\&count_private=true\&theme=material-palenight\&hide_border=true)
 
 ---
 
 ## ⚡ Lenguajes más usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoswished\&layout=compact\&theme=material-palenight\&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicoswished\&layout=compact\&theme=material-palenight\&hide_border=true)
 
 ---
 
