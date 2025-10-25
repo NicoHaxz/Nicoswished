@@ -24,14 +24,13 @@ public void Skills() {
     🌍 Especialidad: Plugins Paper/Spigot, Mods Fabric, mecánicas personalizadas en Minecraft;
 }
 ```
+![Followers](https://img.shields.io/github/followers/Nicoswished?style=for-the-badge)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Nicoswished's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicoswished&show_icons=true&count_private=true&theme=material-palenight&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nicoswished&theme=dark&hide_border=true)
-![Followers](https://img.shields.io/github/followers/Nicoswished?style=for-the-badge)
 
 ---
 
