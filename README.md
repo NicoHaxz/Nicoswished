@@ -29,7 +29,7 @@ public void Skills() {
 
 ## 📊 GitHub Stats
 
-![Nicoswished's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoswished&show_icons=true&count_private=true&theme=material-palenight&hide_border=true)
+![Nicoswished's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicoswished&show_icons=true&count_private=true&theme=material-palenight&hide_border=true)
 
 ---
 
