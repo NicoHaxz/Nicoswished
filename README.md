@@ -30,12 +30,14 @@ public void Skills() {
 ## 📊 GitHub Stats
 
 ![Nicoswished's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicoswished&show_icons=true&count_private=true&theme=material-palenight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nicoswished&theme=dark&hide_border=true)
+![Followers](https://img.shields.io/github/followers/Nicoswished?style=for-the-badge)
 
 ---
 
 ## ⚡ Lenguajes más usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoswished&layout=compact&theme=material-palenight&hide_border=true)
+![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicoswished&layout=compact&theme=dark&hide_border=true)
 
 ---
 
